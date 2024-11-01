@@ -1,0 +1,5 @@
+buildscript {
+    dependencies {
+        classpath files('../../build/libs/GradleMsvc-1.0.1.jar')
+    }
+}
